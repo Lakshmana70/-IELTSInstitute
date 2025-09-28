@@ -9,7 +9,7 @@ export default function Testimonialcard({ testimonial }) {
         <div 
               key={testimonial.name} 
               className="card-elevated p-8 relative animate-slide-up"
-            
+        
             >
              
               
